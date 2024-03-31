@@ -1,0 +1,88 @@
+header{
+    height: 60px;
+    width: 1260px;
+    background-color: rgb(105, 99, 99);
+    color: white;
+    border-radius: 20px;
+    align-items: center;
+    border: 2px dotted black;
+    text-justify: auto;
+    margin-left: 30px;
+
+}
+.list{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+}
+
+.list button{
+    display: inline;
+    margin-left: 20px;
+    padding: 10px;
+}
+h1{
+    margin-left: 60px;
+}
+h3{
+    color: white;
+    font-size: large;
+    
+}
+
+.section{
+    background-color: rgb(105, 99, 99);
+    margin-left: 40px;
+    height: 880px;
+    width: 1260px;
+    border-radius: 20px;
+    border: 2px dotted black;
+}
+.class1{
+    height: 250px;
+    width: 1180px;
+    border: 2px dashed white;
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+hr{
+    border: solid 2px;
+    color: white;
+    border-color: white;
+    background-color: white;
+}
+
+.class1pic{
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+}
+.class2pic{
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+}
+.class3pic{
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+}
+.footer{
+    margin-left: 30px;
+    background-color:rgb(105, 99, 99); 
+    width: 1260px;
+    border-radius: 20px;
+    border: 2px dotted black;
+    height: 50px;
+    margin-top: 30px;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+.footer a{
+    color: white;
+}
